@@ -74,3 +74,4 @@ class authController extends Controller
         return view('dashboard');
     }
 }
+// git push done
